@@ -57,6 +57,9 @@ Simular um cenário bancário real para identificar oportunidades de aumento de 
 - Análise orientada a negócio (não apenas visual)
 - Dashboard interativo com navegação por páginas
 
+  ## 🔗 Acesse o Dashboard Interativo
+👉 (https://app.powerbi.com/view?r=eyJrIjoiMmVmMWE2MWQtMjMzNS00OTcwLTg2NGEtNzRmYzE4ZDMyYjhmIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+
 # Autora
 
 Lorraine Carvalho
